@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Sudoku/.vs
+/Sudoku/bin/Debug/net8.0-windows
+/Sudoku/obj
+/Sudoku.Tests/bin/Debug/net48
+/Sudoku.Tests/obj
+/SudokuPuzzle/bin/Debug
+/SudokuPuzzle/obj/Debug
+/.vs
+/SudokuPuzzle/.vs
